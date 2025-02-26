@@ -1,5 +1,5 @@
-# A basic web scraping app for [Autoscout24](https://www.autoscout24.com/) and [Metro.de](https://www.metro.de/)
-### Web scraping codes for Metro.de will be shared soon.
+# A basic web scraping app for [Autoscout24](https://www.autoscout24.com/)
+### *Pulls 400 pieces of vehicle data from each body type.*
 
 This project is used for automatic data collection (web scraping) and database operations.
 
@@ -7,7 +7,7 @@ This project is used for automatic data collection (web scraping) and database o
 
 1. Clone or download the project:
    ```bash
-   git clone https://github.com/0baris/autoscout-metro-scrape.git
+   git clone https://github.com/0baris/autoscout24-scraper.git
    ```
 
 2. Install the required packages:
